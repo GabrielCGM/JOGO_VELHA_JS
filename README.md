@@ -1,1 +1,3 @@
 # JOGO_VELHA_JS
+
+FUNCIONAMENTO DO JOGO --> https://youtu.be/2QWdV3RHrM0
